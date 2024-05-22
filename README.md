@@ -2,7 +2,7 @@
 
 Bachelor of Computer Science <br/>
 Full-Stack Developer | Angular
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://github.com/Bharath-dev-07/Bharath-dev-07/assets/150419102/e7afbbf0-8d98-4903-a2b2-a09a6e4e5c78">
 - 🔭 Here's my [portfolio](https://Bharath.web.app/)  
 - 👀 I’m interested in Full-Stack Development
 - 🌱 I’m currently learning MERN
