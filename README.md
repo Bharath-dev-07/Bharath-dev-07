@@ -1,11 +1,10 @@
 ## Hi there 👋 It's me Bharath
 
-Bachelor of Computer Science
+Bachelor of Computer Science <br/>
 Full-Stack Developer | Angular
-<img align="right" width="370" height="290" src="[https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif](https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0)">
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://Bharath.web.app/)  
-- 👋 Hi, I’m @Bharath-dev-07
-- 👀 I’m interested in web Development
+- 👀 I’m interested in Full-Stack Development
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on ML/AI
 - 📫 How to reach me :
