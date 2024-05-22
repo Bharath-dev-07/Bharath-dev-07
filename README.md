@@ -2,7 +2,7 @@
 
 Bachelor of Computer Science <br/>
 Full-Stack Developer | Angular
-<img align="right" width="370" height="290" rounded="12" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
+<img align="right" width="370" height="290" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
 - 🔭 Here's my [portfolio](https://Bharath.web.app/)  
 - 👀 I’m interested in Full-Stack Development
 - 🌱 I’m currently learning MERN
